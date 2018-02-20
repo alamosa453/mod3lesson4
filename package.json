@@ -1,0 +1,23 @@
+{
+  "name": "mod3lesson4",
+  "version": "1.0.0",
+  "description": "\"# mod3lesson4\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamosa453/mod3lesson4.git"
+  },
+  "author": "Alamosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alamosa453/mod3lesson4/issues"
+  },
+  "homepage": "https://github.com/alamosa453/mod3lesson4#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
